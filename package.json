@@ -1,0 +1,22 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "This is the first graphql server I made",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "express",
+    "nodejs"
+  ],
+  "author": "Anukul Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "nodemon": "^2.0.7"
+  }
+}
